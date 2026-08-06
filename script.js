@@ -2,7 +2,7 @@
 // MOT DE PASSE
 // =========================
 
-const PASSWORD = "18aout25!";
+const PASSWORD = "jet'aime180825";
 
 const passwordScreen = document.getElementById("password-screen");
 const mainContent = document.getElementById("main-content");
